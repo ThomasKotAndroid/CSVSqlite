@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SQLiteReadCSV</string>
+    <string name="enter_a_number_1_thru_100">Enter a number (1 thru 99)</string>
+    <string name="get_contact">Get Contact</string>
+</resources>
